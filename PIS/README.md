@@ -1,8 +1,9 @@
 ## FilmList
 FilmList is a film application for adding,editing,removing and filtering films.
 Details of the film will be shown in the project. the table would consist of the name of the film, the director of the film, the year the film came out, the film genre and a brief description of the film.
-![image](https://github.com/AntonioMance/FilmList/assets/115353257/c4f45f26-4f50-4edf-a152-d385da13baee)
-![image](https://github.com/AntonioMance/FilmList/assets/115353257/054a3f03-f39f-4bf1-84c8-8e0bce46a80c)
+![image](https://github.com/AntonioMance/FilmList/assets/115353257/59b60bbc-7927-4750-b226-27166aa70416)
+![image](https://github.com/AntonioMance/FilmList/assets/115353257/6ab8f038-013f-47b5-9681-7129cf327f70)
+
 ## Features
 -Add a new film
 -edit film
